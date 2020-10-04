@@ -6,3 +6,4 @@
 3. Flash Reverso
 4. Doomsday
 5. Chita
+6. Villano 2

@@ -4,4 +4,5 @@
 2. Metrópolis
 3. Hell's Kitchen
 4. Central City
-5. SJL
+5. Capital City
+6. SJL City
